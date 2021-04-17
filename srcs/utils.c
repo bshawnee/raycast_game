@@ -1,7 +1,8 @@
-#include "../headers/main.h"
+#include "../headers/parser.h"
+#include <errno.h>
 
 void	error(const char *msg)
 {
-	printf("%s\n", msg);
+	ft_putendl_fd((char*)msg, 2);
 	exit(errno);
 }
