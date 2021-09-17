@@ -1,6 +1,6 @@
 # raycast_game
 ## Description:
-<img src="https://github.com/bshawnee/raycast_game/blob/main/animation.gif" width="250" height="250"/>
+<img src="https://github.com/bshawnee/raycast_game/blob/main/animation.gif" width="400" height="400"/>
 ## Dependencies:
 - macOS
 - Xquartz
